@@ -9,6 +9,7 @@
     <name>GeometryLibrary</name>
     <modules>
         <module>ThreeDimensionalShapes</module>
+        <module>GeometryLibrary1</module>
     </modules>
 
 
